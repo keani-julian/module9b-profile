@@ -1,4 +1,5 @@
 # Module 9B - Custom Profile Component
+REPO LINK: https://github.com/keani-julian/module9b-profile
 
 ## Description
 This is a React app built with Vite. It contains a profile component styled entirely with inline CSS. The component displays a user's circular profile image, name, and a short bio.
